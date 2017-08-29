@@ -1,0 +1,20 @@
+﻿---
+ID: "0ca1aa8a-06d0-407a-9b0d-87d69bdaf69c"
+Parent: "73d641b9-190a-404e-a57c-3c60da805e8b"
+Template: "6dd9771f-5720-4779-bde0-f26631f0e305"
+Path: /sitecore/content/Group/Home/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b483e91-d8c4-4d19-ba03-462074b55936"
+      Hint: NavigationTitle
+      Value: Events
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170829T144200Z
+    - ID: "c30a013f-3cc8-4961-9837-1c483277084a"
+      Hint: Title
+      Value: Events

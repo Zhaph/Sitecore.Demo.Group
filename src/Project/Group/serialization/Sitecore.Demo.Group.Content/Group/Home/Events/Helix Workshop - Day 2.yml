@@ -1,0 +1,42 @@
+﻿---
+ID: "1c496e3c-8aff-4097-8ba8-3651abb751d8"
+Parent: "0ca1aa8a-06d0-407a-9b0d-87d69bdaf69c"
+Template: "8b693164-f535-4ff3-a393-27879a8a5bd5"
+Path: "/sitecore/content/Group/Home/Events/Helix Workshop - Day 2"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170829T144241Z
+    - ID: "34512d57-941d-42c9-8d8a-d86c05411890"
+      Hint: Venue Address
+      Value: |
+        St Katherine's Dock
+        London
+    - ID: "577f12b1-ce31-4efb-b02e-cf9d7933de2c"
+      Hint: Description
+      Value: |
+        <p>Sumith takes us through the excitement that is Helix and Habitat!</p>
+        <p>It's a workshop not training, and there's a <em><strong>lot</strong></em> of theory!</p>
+        <p>Remember: 6 Principles:</p>
+        <p>Cohesion - Granular</p>
+        <p>RREP, CRP, CCP</p>
+        <p>Coupling - Stable</p>
+        <p>ADP, SDP, SAP</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "7da98158-b1e7-4f55-89ee-bb302ac1299a"
+      Hint: Venue
+      Value: Sitecore London
+    - ID: "986163ea-481b-42a7-a00b-2a73a16ef08b"
+      Hint: Date
+      Value: 20170830T080000Z
+    - ID: "ba255e88-5274-48f8-b13b-b58f2cbcb608"
+      Hint: Title
+      Value: "Helix Workshop - Day 1"
