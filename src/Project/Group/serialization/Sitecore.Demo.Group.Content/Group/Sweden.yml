@@ -6,6 +6,10 @@ Path: /sitecore/content/Group/Sweden
 DB: master
 Languages:
 - Language: "sv-SE"
+  Fields:
+  - ID: "53b5af0a-265f-4e60-b2b2-4576ce0beccf"
+    Hint: Theme
+    Value: "{DCA5295E-B997-4B83-9C09-B28D27769032}"
   Versions:
   - Version: 1
     Fields:

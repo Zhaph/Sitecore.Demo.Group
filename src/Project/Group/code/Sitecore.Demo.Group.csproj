@@ -28,6 +28,7 @@
     </NuGetPackageImportStamp>
     <TargetFrameworkProfile />
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -148,7 +149,9 @@
     <Content Include="packages.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.config" />
+    <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="App_Config\Include\Project\Sitecore.Demo.Group.Serialization.config" />
     <Content Include="App_Config\Include\Project\z.Sitecore.Demo.Group.DevSettings.config">
       <SubType>Designer</SubType>
@@ -162,6 +165,12 @@
     <None Include="Properties\PublishProfiles\Local.pubxml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="styles\sweden.css">
+      <DependentUpon>sweden.scss</DependentUpon>
+    </Content>
+    <Content Include="styles\sweden.min.css">
+      <DependentUpon>sweden.css</DependentUpon>
+    </Content>
     <Content Include="styles\white-wonder.css">
       <DependentUpon>white-wonder.scss</DependentUpon>
     </Content>
@@ -174,6 +183,10 @@
     <Content Include="styles\white-wonder\_fonts.scss" />
     <Content Include="styles\white-wonder\_overrides.scss" />
     <Content Include="styles\white-wonder\_variables.scss" />
+    <Content Include="styles\sweden.scss" />
+    <Content Include="styles\sweden\_fonts.scss" />
+    <Content Include="styles\sweden\_overrides.scss" />
+    <Content Include="styles\sweden\_variables.scss" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
