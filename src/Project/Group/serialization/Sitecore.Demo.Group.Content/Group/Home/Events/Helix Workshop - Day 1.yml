@@ -9,6 +9,11 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        St Katherine's Dock
+        London
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170829T144241Z
@@ -23,10 +28,21 @@ Languages:
         <p>Sumith takes us through the excitement that is Helix and Habitat!</p>
         <p>It's a workshop not training, and there's a <em><strong>lot</strong></em> of theory!</p>
         <p>Remember: 6 Principles:</p>
-        <p>Cohesion - Granular</p>
-        <p>RREP, CRP, CCP</p>
-        <p>Coupling - Stable</p>
-        <p>ADP, SDP, SAP</p>
+        <ul>
+            <li>Cohesion - Granular</li>
+            <ul>
+                <li>RREP - Release Reuse Equivalence Principle</li>
+                <li>CRP - Common Reuse Principle</li>
+                <li>CCP - Common Closure Principle</li>
+            </ul>
+            <li>Coupling - Stable</li>
+            <ul>
+                <li>ADP - Acyclic Dependencies Principle</li>
+                <li>SDP - Stable Dependencies Principle</li>
+                <li>SAP - Stable Abstraction Principle</li>
+            </ul>
+        </ul>
+        
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
@@ -40,3 +56,9 @@ Languages:
     - ID: "ba255e88-5274-48f8-b13b-b58f2cbcb608"
       Hint: Title
       Value: "Helix Workshop - Day 1"
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Sitecore London
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "51.5076371,-0.07371850000004088"

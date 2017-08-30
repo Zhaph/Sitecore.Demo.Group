@@ -109,6 +109,12 @@ SharedFields:
           id="{82B55E2D-D954-49D1-9616-F33E0B3E7A1E}"
           ph="/page-layout/section/col-narrow-1"
           uid="{6FAE5A13-04B3-4CCB-9D50-EF41102A0A53}" />
+        <r
+          ds=""
+          id="{7DFD9396-CB94-4174-9721-9419A2AA68E3}"
+          par="MapType=roadmap&amp;CenterLocation=-5.055576%2C3.803790&amp;ZoomLevel=15&amp;EnableCenterMapControl&amp;EnableZoomControl=1&amp;EnableMapTypeControl=1&amp;EnableScaleControl&amp;EnableStreetViewControl&amp;EnableRotateControl"
+          ph="/page-layout/section/col-narrow-1"
+          uid="{6CB3A18E-24B9-445B-A308-EC500417EBE0}" />
       </d>
       <d
         id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}"

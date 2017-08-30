@@ -9,6 +9,11 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "0295c01d-214c-4c23-afc2-3f0b4e88b643"
+      Hint: MapPointAddress
+      Value: |
+        St Katherine's Dock
+        London
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20170829T144241Z
@@ -39,4 +44,10 @@ Languages:
       Value: 20170830T080000Z
     - ID: "ba255e88-5274-48f8-b13b-b58f2cbcb608"
       Hint: Title
-      Value: "Helix Workshop - Day 1"
+      Value: "Helix Workshop - Day 2"
+    - ID: "f12c22bb-e57d-4fab-96e1-1229e4e7ff0e"
+      Hint: MapPointName
+      Value: Sitecore London
+    - ID: "f686ac8e-1d33-45db-8e1a-1b40cd491e7a"
+      Hint: MapPointLocation
+      Value: "51.5076371,-0.07371850000004088"
